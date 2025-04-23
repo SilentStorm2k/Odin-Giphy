@@ -211,8 +211,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## Acknowledgments
 
-- []()
-- []()
+- [<a href="https://www.flaticon.com/free-icons/up-arrow" title="up arrow icons">Up arrow icons created by See Icons - Flaticon</a>]()
+- [<a href="https://www.flaticon.com/free-icons/picture" title="picture icons">Picture icons created by Pixel perfect - Flaticon</a>]()
 - []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
