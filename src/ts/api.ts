@@ -1,4 +1,6 @@
-const API_KEY = process.env.GIPHY_API_KEY;
+const API_KEY = process.env.GIPHY_API_KEY
+    ? process.env.GIPHY_API_KEY
+    : 'A7nTvMiqw5ySUxU330HwtlzSlVlRuAb5';
 
 export async function getGifUrl(topic: string): Promise<string> {
     if (topic == '') return Promise.reject(`You gotta enter a topic fam`);
